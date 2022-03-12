@@ -2,7 +2,7 @@
 
 ¿Cómo generar nuevas ideas de mejora dentro de la empresa? Tándem es un instrumento que abarca tanto las condiciones laborales de grupo, como la responsabilidad social de la empresa o incluso la generación de nuevos proyectos. Se trata de un pequeño sistema que puede funcionar en contextos laborales y tamaños de empresa muy diferentes.
 
-Tándem se puede implementar en herramientas tan sencillas como los Formularios de Google.
+Tándem se puede implementar en herramientas tan sencillas como los Formularios de Google https://forms.gle/RpdwkncbYVEuo3bn8 y dar a conocer con, por ejemplo, Presentaciones de Google https://docs.google.com/presentation/d/1tQ1qsg7gU-_x_gJu2ya9aWSreu3nAfgTw0Rq7VWnVNU/edit?usp=sharing
 
 Funciones: obtener respuestas interesantes de personas empleadas y promover la responsabilidad social de la empresa y el trabajo cooperativo
 
@@ -22,14 +22,21 @@ Funciones: obtener respuestas interesantes de personas empleadas y promover la r
 
 # Pantallazos
 
-Ejemplos de algunas de las pantallas de Tándem
+Ejemplos de algunas de las pantallas de la presentación de Tándem
 
+![Tándem](https://user-images.githubusercontent.com/23242976/158028127-048190a7-374f-4aaf-b37e-73acd9f695fa.png)
+
+![Tándem envío](https://user-images.githubusercontent.com/23242976/158028148-c8357e9d-34cc-4151-809a-992d1bd54c24.png)
+
+Ejemplo de una parte del formulario de Tándem
+
+![Tándem formulario](https://user-images.githubusercontent.com/23242976/158028185-21c181ca-a067-4294-89a5-31911ed056f0.png)
 
 # Tutorial
 
-- Se puede descargar una presentación de Tándem. La presentación se puede personalizar con el logo de la empresa, el enlace al formulario de recogida de propuestas, las áreas de propuesta e información específica de la propia empresa.
-- Se puede ver un ejemplo de formulario en Formularios de Google.
+- Se puede descargar una presentación de Tándem https://docs.google.com/presentation/d/1tQ1qsg7gU-_x_gJu2ya9aWSreu3nAfgTw0Rq7VWnVNU/edit?usp=sharing La presentación se puede personalizar con el logo de la empresa, el enlace al formulario de recogida de propuestas, las áreas de propuesta e información específica de la propia empresa. La presentación se puede ver también en pdf en https://github.com/jsuarezfer/tandem/blob/main/T%C3%A1ndem.pdf
 - Se envía la información que explica en qué consiste Tándem (la presentación) y el enlace al formulario por email a todas las personas empleadas.
+- Se puede ver un ejemplo de formulario en Formularios de Google https://forms.gle/RpdwkncbYVEuo3bn8
 
 Listado de áreas de propuesta definidas, por ejemplo:
 - Nuevos proyectos para trabajar: Generación de nueva actividad y beneficios.
@@ -69,9 +76,13 @@ Comparte para avanzar
 Pequeñas iniciativas pueden desencadenar grandes cambios para mejorar nuestras condiciones de trabajo y para hacer crecer nuestra responsabilidad social
 Cualquier propuesta compartida que se pueda (o se decida) aplicar (o no), nos hace avanzar. 
 
-El procedimiento es ágil y participativo...
+El procedimiento es ágil y participativo.
 
-Envía > Valora > Aprueba > Arranca > Recompensa
+1. Envía
+2. Valora
+3. Aprueba
+4. Arranca
+5. Recompensa
 
 1. Envía tus propuestas.  Cualquiera puede compartir sus propuestas. Puedes elaborarlas en grupo porque trabajar en equipo es la mejor opción. Las propuestas se envían desde un sencillo formulario, la explicas lo mejor posible y la asignas a sus áreas correspondientes.
 2. Siempre se tendrán en cuenta las propuestas enviadas. Las propuestas serán valoradas por un equipo que te representa, que también podrá pedir la participación del resto de las personas que trabajamos aquí. El equipo está formado por (1) la persona que elegimos para representarnos como trabajadores y trabajadoras y (2) la persona responsable de los recursos humanos. Si no hubiera representación paritaria de género en el equipo, una tercera persona (elegida por la Dirección) lo compensaría.
