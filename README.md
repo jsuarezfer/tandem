@@ -2,7 +2,9 @@
 
 ¿Cómo generar nuevas ideas de mejora dentro de la empresa? Tándem es un instrumento que abarca tanto las condiciones laborales de grupo, como la responsabilidad social de la empresa o incluso la generación de nuevos proyectos. Se trata de un pequeño sistema que puede funcionar en contextos laborales y tamaños de empresa muy diferentes.
 
-Tándem se puede implementar en herramientas tan sencillas como los Formularios de Google https://forms.gle/RpdwkncbYVEuo3bn8 y dar a conocer con, por ejemplo, Presentaciones de Google https://docs.google.com/presentation/d/1tQ1qsg7gU-_x_gJu2ya9aWSreu3nAfgTw0Rq7VWnVNU/edit?usp=sharing
+Tándem se puede implementar en herramientas tan sencillas como:
+- Los Formularios de Google https://forms.gle/RpdwkncbYVEuo3bn8 (captura en https://github.com/jsuarezfer/tandem/blob/main/Captura%20Formulario%20T%C3%A1ndem.jpeg) 
+- Las Presentaciones de Google https://docs.google.com/presentation/d/1tQ1qsg7gU-_x_gJu2ya9aWSreu3nAfgTw0Rq7VWnVNU/edit?usp=sharing (captura en https://github.com/jsuarezfer/tandem/blob/main/T%C3%A1ndem.pdf)
 
 Funciones: obtener respuestas interesantes de personas empleadas y promover la responsabilidad social de la empresa y el trabajo cooperativo
 
@@ -36,7 +38,7 @@ Ejemplo de una parte del formulario de Tándem
 
 - Se puede descargar una presentación de Tándem https://docs.google.com/presentation/d/1tQ1qsg7gU-_x_gJu2ya9aWSreu3nAfgTw0Rq7VWnVNU/edit?usp=sharing La presentación se puede personalizar con el logo de la empresa, el enlace al formulario de recogida de propuestas, las áreas de propuesta e información específica de la propia empresa. La presentación se puede ver también en pdf en https://github.com/jsuarezfer/tandem/blob/main/T%C3%A1ndem.pdf
 - Se envía la información que explica en qué consiste Tándem (la presentación) y el enlace al formulario por email a todas las personas empleadas.
-- Se puede ver un ejemplo de formulario en Formularios de Google https://forms.gle/RpdwkncbYVEuo3bn8
+- Se puede ver un ejemplo de formulario en Formularios de Google https://forms.gle/RpdwkncbYVEuo3bn8 y una captura en https://github.com/jsuarezfer/tandem/blob/main/Captura%20Formulario%20T%C3%A1ndem.jpe
 
 Listado de áreas de propuesta definidas, por ejemplo:
 - Nuevos proyectos para trabajar: Generación de nueva actividad y beneficios.
